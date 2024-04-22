@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "peluqueria 1",
+        "direccion": "calle falsa 123",
+        "localidad": "CABA"
+    },
+    {
+        "nombre": "peluqueria 2",
+        "direccion": "calle falsa 456",
+        "localidad": "CABA"
+    },
+    {
+        "nombre": "peluqueria 3",
+        "direccion": "calle falsa 789",
+        "localidad": "Buenos Aires"
+    },
+    {
+        "nombre": "peluqueria 4",
+        "direccion": "calle falsa 012",
+        "localidad": "Buenos Aires"
+    },
+    {
+        "nombre": "peluqueria 5",
+        "direccion": "calle falsa 345",
+        "localidad": "Buenos Aires"
+    },
+    {
+        "nombre": "peluqueria 6",
+        "direccion": "calle falsa 678",
+        "localidad": "Buenos Aires"
+    },
+    {
+        "nombre": "peluqueria 7",
+        "direccion": "calle falsa 901",
+        "localidad": "CABA"
+    },
+    {
+        "nombre": "peluqueria 8",
+        "direccion": "calle falsa 234",
+        "localidad": "CABA"
+    },
+    {
+        "nombre": "peluqueria 9",
+        "direccion": "calle falsa 567",
+        "localidad": "CABA"
+    },
+    {
+        "nombre": "peluqueria 10",
+        "direccion": "calle falsa 890",
+        "localidad": "CABA"
+    }
+]

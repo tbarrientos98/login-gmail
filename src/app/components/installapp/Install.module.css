@@ -1,0 +1,31 @@
+.installBanner {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.install-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.install-button:hover {
+    background-color: #0056b3;
+}
